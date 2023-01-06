@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Brian. By day I'm a full-stack web developer, who specializes in video streaming, by night I'm a hobbyist in computers, electronics, 3d printing, woodworking, camping, overlanding, and a bunch of other stuff.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I decided to start a blog as a way of better documenting things for myself. Nothing is worse then debugging something and realizing the tutorial you're following seems very familiar. You realize you've totally had this problem before, but can't quite remember how you fixed it the last time. This blog is attempt to help my future self, and maybe some others too!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Useful (or not) links and projects:
+- [Github](https://github.com/dudewheresmycode)
+- [GifTuna](http://giftuna.io)
 
+### Credits
 
-[jekyll-organization]: https://github.com/jekyll
+**Site Logo / Icon**: Idea by Ida Desi Mariana from <a href="https://thenounproject.com/browse/icons/term/idea/" target="_blank" title="Idea Icons">Noun Project</a>

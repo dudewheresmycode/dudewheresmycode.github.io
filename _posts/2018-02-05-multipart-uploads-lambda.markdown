@@ -4,7 +4,7 @@ title:  "Handling Multipart Uploads in AWS Lambda"
 date:   2018-02-05 01:00:00 -0600
 categories: projects programming
 ---
-![AWS Lambda](/assets/lambda.jpg)
+![AWS Lambda](/assets/images/lambda.jpg)
 
 I’ve been really vibing with the AWS Lambda + API Gateway combo a lot lately. If you don’t know about AWS Lambda, you really should check it out. It’s an event-driven, server-less compute system. Which is great for simple task based operations like handling a sign-up form, or resizing a user-uploaded image.
 

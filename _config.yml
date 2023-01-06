@@ -23,13 +23,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aguywithideas.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brian_tweets_it
 github_username:  dudewheresmycode
-
+logo: "assets/images/icon.svg"
 # Build settings
 markdown: kramdown
 theme: minima
+# theme: alembic-jekyll-theme
+
 plugins:
   - jekyll-feed
 
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

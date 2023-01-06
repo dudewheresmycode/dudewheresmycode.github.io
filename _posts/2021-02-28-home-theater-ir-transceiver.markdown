@@ -15,7 +15,7 @@ I’ll continue to update as the project progresses. So far, I’ve drawn up a w
 
 #### Wiring Diagram
 
-![AWS Lambda](/assets/ir-remote.png)
+![AWS Lambda](/assets/images/ir-remote.png)
 
 #### Parts List
 - 940nm IR LED

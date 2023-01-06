@@ -4,7 +4,8 @@ title:  "Extracast"
 date:   2018-01-16 01:00:00 -0600
 categories: projects programming
 ---
-![logo on television](/assets/extracast.jpg)
+![logo on television](/assets/images/extracast.jpg)
+
 
 I’ve begun work on a desktop Chromecast media player. I have tons of old shows and movies collecting dust on hard drives that I really want to be able to play on my Chromecast. As most folks know, Chrome let’s you cast local video files by simply opening them with Chrome, and casting that tab. But this only works with video files that Chrome can play like MP4 and WebM files.
 

@@ -3,13 +3,13 @@ services:
   static:
     image: "jekyll/jekyll:3.8"
     volumes:
-      - /Users/brian/Projects/aguywithideas-jekyll:/srv/jekyll
+      - .:/srv/jekyll
     command: "jekyll build"
 
   develop:
     image: "jekyll/jekyll:3.8"
     volumes:
-      - /Users/brian/Projects/aguywithideas-jekyll:/srv/jekyll
+      - .:/srv/jekyll
     ports:
       - 4000:4000
     command: "jekyll serve --watch --drafts"
