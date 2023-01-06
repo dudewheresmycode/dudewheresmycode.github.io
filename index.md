@@ -1,5 +1,6 @@
-## dudewheresmycode
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-### Projects
-
-- [TenFootGnome](https://github.com/dudewheresmycode/TenFootGnome) - A gnome extension with a 10-foot interface designed for HTPCs
+layout: home
+---
