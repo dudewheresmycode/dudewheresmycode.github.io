@@ -22,6 +22,10 @@ This will just generate the static `_site` files.
 
 create a fresh site
 ```bash
-export JEKYLL_VERSION=3.9
-docker run --rm --volume="$PWD/new:/srv/jekyll" -it jekyll/jekyll:3.9 jekyll new .
+docker run --rm --volume="$PWD/new:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll new .
+```
+
+create a fresh theme
+```bash
+docker run --rm --volume="$PWD/theme:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll new-theme .
 ```
